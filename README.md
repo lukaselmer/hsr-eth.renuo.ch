@@ -1,4 +1,4 @@
-eth.renuo.ch
+hsr-eth.renuo.ch
 ==================
 
-https://eth.renuo.ch
+https://hsr-eth.renuo.ch
